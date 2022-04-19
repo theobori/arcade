@@ -1,0 +1,22 @@
+ XXXXXXXXXXXXXXXXXXX 
+ X........X........X 
+ XFXX.XXX.X.XXX.XXFX 
+ X.................X 
+ X.XX.X.XXXXX.X.XX.X 
+ X....X...X...X....X 
+ XXXX.XXX X XXX.XXXX 
+    X.X       X.X    
+XXXXX.X XXDXX X.XXXXX
+T    .  X   X  .    T
+XXXXX.X X   X X.XXXXX
+    X.X XXXXX X.X    
+    X.X   P   X.X    
+ XXXX.X XXXXX X.XXXX 
+ X........X........X 
+ X.XX.XXX.X.XXX.XX.X 
+ XF.X...........X.FX 
+ XX.X.X.XXXXX.X.X.XX 
+ X....X...X...X....X 
+ X.XXXXXX.X.XXXXXX.X 
+ X.................X 
+ XXXXXXXXXXXXXXXXXXX 
