@@ -1,0 +1,8 @@
+*.o
+*.so
+main.c
+.vscode
+*.gcno
+*.gcda
+arcade
+done
