@@ -27,10 +27,17 @@ Virtual arcade machine with a modudable code structure, the kernel is thus separ
 ## How to build and run ?
 
 1. Install the dependencies
-    **Debian / Ubuntu**
+
+**Debian / Ubuntu**
 ```bash
 sudo apt install libsdl2-2.0-0 libsdl2-gfx-1.0-0 libsdl2-image-2.0-0 libsdl2-mixer-2.0-0 libsdl2-net-2.0-0 libsdl2-ttf-2.0-0 libsfml-dev libncurses5-dev libncursesw5-dev
 ```
+
+**Arch Linux**
+```bash
+sudo pacman -Sy sdl2 sdl2_image sdl2_gfx sdl2_ttf sfml ncurses
+```
+
 2. Compile with `make`
 3. Run the binary named `arcade`
 
