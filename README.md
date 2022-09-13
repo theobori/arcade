@@ -49,5 +49,5 @@ To implement a graphic library or a game, you can read our documentation in `doc
 
 * **Théo Bori** - [github](https://github.com/theobori)
 * **Antonin Ricard** - [github](https://github.com/antonin-11)
-* **Martin Galtier**
+* **Martin Galtier** 
   
